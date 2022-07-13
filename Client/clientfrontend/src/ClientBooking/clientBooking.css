@@ -1,0 +1,164 @@
+.viewButton button {
+    margin-left: 28rem;
+    width: 40%;
+}
+
+.mainForm {
+    margin-left: 29%;
+    margin-top: 2rem;
+    background-color: rgb(127, 127, 149);
+    width: 40%;
+    height: 500px;
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.mainForm label {
+    color: aliceblue;
+}
+
+.mainForm form {
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.mainForm form :hover {
+    color: blue;
+}
+
+.submitButton {
+    margin-top: 1rem;
+}
+
+.rs-picker-default .rs-picker-toggle.rs-btn {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 282px;
+}
+
+/* picked date align */
+.rs-picker-default .rs-picker-toggle {
+    position: relative;
+    z-index: 5;
+    padding-right: 67px;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    color: #575757;
+    border: 1px solid #e5e5ea;
+    padding-left: 44px;
+}
+
+/* calander align */
+.rs-picker-toggle-caret {
+    display: inline-block;
+    margin-right: 240px;
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    font-weight: normal;
+    color: #8e8e93;
+}
+
+/* ok button style */
+.rs-picker-toolbar-right-btn-ok {
+    text-align: center;
+    cursor: pointer;
+    outline: 0;
+    border: none;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 30px;
+    color: #fff;
+    background-color: #3498ff;
+    width: 100px;
+}
+
+/* range style */
+.rs-picker-menu .rs-calendar .rs-calendar-table-cell-content {
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 21px;
+    display: inline-block;
+}
+
+.hotelDetails {
+    margin-top: 3rem;
+    margin-left: 3rem;
+    width: 500px;
+    border: 1px solid black;
+}
+
+.hotelDetails img {
+    width: 500px;
+    height: 300px;
+    padding: 1rem;
+}
+
+.hotelDetails h2 {
+    text-align: center;
+    background-color: rgb(188, 188, 188);
+}
+
+.map {
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.mainBody {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+    flex-basis: 30% 20%;
+}
+
+.firstSection {
+    border: 1px solid black;
+}
+
+.firstSection img {
+    width: 1520px;
+    height: 800px;
+    filter: blur(3px);
+}
+
+.bg-text {
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+
+.secondSection {
+    border: 2px solid black;
+    background-color: rgb(209, 209, 218);
+}
+
+.secondSection .mainOne {
+    padding: 10px;
+}
+
+.fourthSection .cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 20rem;
+}
+
+.fourthSection body {
+    margin-top: 2rem;
+    width: 800px;
+}
+
+.fourthSection h1 {
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,21 @@
+.main {
+    margin-left: 50rem;
+}
+
+.main li {
+    margin-right: 3px;
+}
+
+.main li :hover {
+    background-color: slateblue;
+}
+
+.navTopic {
+    display: flex;
+    background-color: rosybrown;
+    margin-left: 5px;
+}
+
+.navTopic .image {
+    margin: 6px 6px 10px 6px;
+}

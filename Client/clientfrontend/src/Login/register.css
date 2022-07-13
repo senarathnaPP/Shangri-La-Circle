@@ -1,0 +1,26 @@
+.register_title {
+    margin-bottom: 10px;
+    height: 102px;
+    text-align: center;
+    background-color: #fff;
+    color: #333;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 8%);
+    font-family: PlayfairDisplay,Georgia,Times New Roman,serif;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.register_content {
+    width: 100%;
+    background: #fff;
+    padding: 15px 0 60px;
+}
+
+.m-register {
+    margin: 0 auto;
+    width: 630px;
+}
+
+.row_register {
+
+}

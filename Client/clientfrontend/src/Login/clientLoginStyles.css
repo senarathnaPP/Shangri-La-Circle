@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(233, 237, 240, 0.5);
+}
+/* .logBody{
+    width:100%;
+    margin:40px;
+    border-Radius:0px;
+    /*background-Color: #D3D3D3;
+    margin-Top:-30px;
+    margin-Left:0px;
+    /* background-image: '../images/login_bg.jpg'; 
+    background-Repeat: no-repeat;
+    
+} */
+.login{
+    margin-top: 100px;
+    
+}
+
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h1{
+    font-size: 32px;
+    font-weight: bolder;
+    color:#fff;
+    margin-top: -90px;
+}
+
+.register{
+    margin-left: 600px;
+}
+.login-btn{
+    width: 100%;
+    margin-left: 830px;
+}
+.register{
+    margin-left: 420px;
+}

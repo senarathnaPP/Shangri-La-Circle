@@ -1,0 +1,50 @@
+/* .mainPage {
+    background-image: url('../images/bgImage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+h1 {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 6rem 1rem 6rem;
+}
+
+.main img {
+    height: 100%;
+    width: 90%;
+    margin: 1rem 1rem 4rem 5rem;
+}
+
+.mainElement {
+    color: darkslategrey;
+    position: absolute;
+    top: 60%;
+    left: 40%;
+}
+
+.main h3 span {
+    color: aqua;
+    margin-left: 5px;
+}
+
+.main a {
+    margin-left: 5rem;
+}
+
+.cards img {
+    width: 320px;
+    height: 200px;
+}
+
+.cards a {
+    bottom: 2rem;
+}
+
+.cards {
+    height: 300px;
+}
